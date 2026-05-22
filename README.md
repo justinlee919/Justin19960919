@@ -1,4 +1,4 @@
-Hi 👋, I'm Justin!
+Hi I'm Justin!
 <br/><br/>
 ✨ Frontend: React, Typescript / Javascript, jQuery, Graphql
 <br/>
